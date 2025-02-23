@@ -1,9 +1,0 @@
-👨‍💻 📝 O administrador da biblioteca pediu para que você gerasse alguns relatórios com os dados cadastrados
-
-1. Apresente os livros e suas respectivas categorias em 1 relatório.
-2. Apresente em um relatório de emprestimo, o nome do livro, nome do associado, tipo do associado, data do emprestimo e a data prevista da devolução
-3.Liste todos os emprestimos devolvidos , apresentando o nome do associado, livro, autor e categoria do livro
-4.Liste todos os emprestimos que estão em atraso de acordo com a data de hoje
-5.Apresente a quantidade de emprestimo que cada associado fez
-6.Apresente a quantidade de livros por categoria
-7.Apresente todos os emprestimos cuja a aula da devolução é maior que a data atual ordenada pela data da devolução
